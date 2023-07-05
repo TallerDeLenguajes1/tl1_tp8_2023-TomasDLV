@@ -1,0 +1,15 @@
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\bin\Debug\net7.0\tl1_tp8_2023-TomasDLV.exe
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\bin\Debug\net7.0\tl1_tp8_2023-TomasDLV.deps.json
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\bin\Debug\net7.0\tl1_tp8_2023-TomasDLV.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\bin\Debug\net7.0\tl1_tp8_2023-TomasDLV.dll
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\bin\Debug\net7.0\tl1_tp8_2023-TomasDLV.pdb
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\tl1_tp8_2023-TomasDLV.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\tl1_tp8_2023-TomasDLV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\tl1_tp8_2023-TomasDLV.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\tl1_tp8_2023-TomasDLV.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\tl1_tp8_2023-TomasDLV.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\tl1_tp8_2023-TomasDLV.dll
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\refint\tl1_tp8_2023-TomasDLV.dll
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\tl1_tp8_2023-TomasDLV.pdb
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\tl1_tp8_2023-TomasDLV.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\3er año\Repositorio Taller1\tl1_tp8_2023-TomasDLV\obj\Debug\net7.0\ref\tl1_tp8_2023-TomasDLV.dll
